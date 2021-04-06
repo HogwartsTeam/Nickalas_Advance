@@ -56,6 +56,11 @@
 ```
 ![redis](https://telegra.ph/file/1fa95b98f6e435e178dbd.jpg)
 ```
+30)    create mongodb cluster and get it uri
+```
+![mongodb](https://youtu.be/hkmc3e7U7R4)
+
+```
 36 Paste the Api token copied at token space
 
 ```
