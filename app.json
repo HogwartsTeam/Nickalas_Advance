@@ -1,0 +1,94 @@
+{
+  "name": "project hogwarts",
+  "description": "අමාරු ඔක්කොම vars @HogwartsGhosts වල /notes වල තියනය",
+  "keywords": [
+    "telegram",
+    "ghosts",
+    "plugin",
+    "telegram-HogwartsGhosts",
+    "fuck-TG"
+  ],
+  "repository": "https://github.com/hirushakeeth/utah",
+  "success_url": "https://t.me/joinchat/P8xH0t6ndKJkNzU9",
+  "buildpacks": [
+   {
+     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+   },
+   {
+     "url": "heroku/python"
+   }     
+  ],
+  "env": {
+    "APP_ID":{
+      "description":"got it from my.telegrame.org",
+      "value":"",
+      "required":true
+    },
+    "APP_HASH":{
+      "description":"got it from my.telegrame.org",
+      "value":"",
+      "required":true
+    },
+    "MONGODB_URI":{
+      "description":"got it from mongodb.com",
+      "value":"",
+      "required":true
+    },
+    "MONGO_DB":{
+      "description":"don't change this",
+      "value":"utah",
+      "required":true
+    },
+    "API_PORT":{
+      "description":"don't change",
+      "value":"8080",
+      "required":true
+    },
+    "REDIS_URI":{
+      "description":"got it from redislabs.com",
+      "value":"",
+      "required":true
+    },
+    "REDIS_PORT":{
+      "description":"got it from redislabs.com මම ගෘෘප් එකේ දාල ඇති check /notes",
+      "value":"",
+      "required":true
+    },
+    "REDIS_PASS":{
+      "description":"got it from redislabs.com",
+      "value":"",
+      "required":true
+    },
+    "OWNER_ID":{
+      "description":"type your telegrame id here ඒක ගන්න ගෘප් එකේ /id කියල ගහල",
+      "value":"",
+      "required":true
+    },
+    "OPERATORS":{
+      "description":"don't change hogwarts operaters id s",
+      "value":"",
+      "required":true
+    },
+    "SW_API":{
+      "description":"get the token from @SpamWatchBot in telegrame",
+      "value":"",
+      "required":true
+    },
+    "DEBUG_MODE":{
+      "description":"",
+      "value":"false",
+      "required":false
+    },
+    "LOAD_MODULES":{
+      "description":"",
+      "value":"true",
+      "required":false
+    },
+    "ALLOW_FORWARDS_COMMANDS":{
+      "description":"",
+      "value":"true",
+      "required":false
+    }
+  }   
+}  
+  

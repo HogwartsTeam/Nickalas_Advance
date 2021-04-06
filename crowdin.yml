@@ -1,0 +1,3 @@
+files:
+  - source: utah/localization/en.yaml
+    translation: /**/utah/localization/%locale_with_underscore%.yaml
