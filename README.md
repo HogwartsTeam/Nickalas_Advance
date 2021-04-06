@@ -51,7 +51,7 @@
 ```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hirushakeeth/Daisy.git)
 ```
-5) Give an app name
+5) create redis database and copy uri like this yog get this from redislabs.com
 
 ```
 ![redis](https://telegra.ph/file/1fa95b98f6e435e178dbd.jpg)
