@@ -54,7 +54,7 @@
 5) Give an app name
 
 ```
-![Appname](https://telegra.ph/file/216e81c30118aeabd6574.png)
+![redis](https://telegra.ph/file/1fa95b98f6e435e178dbd.jpg)
 ```
 36 Paste the Api token copied at token space
 
@@ -68,7 +68,7 @@
 9) Enter TL_API_HASH (Get from my.telegram.org 's API Development tools)
 
 ```
-![url](https://telegra.ph/file/5b159343abc4d3a369ac0.png)
+![url](https://telegra.ph/file/5b159343abc4d3a369ac0.png
 ```
 10)Then Deploy
 
