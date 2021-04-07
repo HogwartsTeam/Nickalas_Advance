@@ -61,12 +61,12 @@
     },
     "OWNER_ID":{
       "description":"type your telegrame id here ඒක ගන්න ගෘප් එකේ /id කියල ගහල",
-      "value":"",
+      "value":"1506444772",
       "required":true
     },
     "OPERATORS":{
       "description":"don't change hogwarts operaters id s",
-      "value":"",
+      "value":"1619556616 1665837359 1619556616 1506444772 1234523543 1121026199 1143595056 1228567643",
       "required":true
     },
     "SW_API":{
